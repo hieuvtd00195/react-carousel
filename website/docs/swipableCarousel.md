@@ -26,7 +26,7 @@ export const Highlight = ({children, color}) => ( <span style={{
 </Carousel>
 
 ```jsx
-<Carousel show={3.5} slide={3} swiping={true}>
+<Carousel show={3} slide={3} swiping={true}>
 	<Highlight color="#2d66c3">We love Web 🌐</Highlight>
 	<Highlight color="#f44336">We love Developers 👩🏻‍</Highlight>
 	<a target="_blank" href="https://github.com/trendyol/">
